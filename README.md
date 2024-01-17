@@ -6,8 +6,8 @@ Scores for Git: 92
 Scores for JavaScript: 68
 Average Score: 80
 
-## Student Full Name: Irina Lapina
-Student First Name: Ir
+## Student Full Name: I.Lapina
+Student First Name: I.
 Scores for Introduction: 80
 Scores for Git: 92
 Scores for JavaScript: 68
