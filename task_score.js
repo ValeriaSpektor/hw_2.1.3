@@ -7,7 +7,7 @@ let jsScore = 68;
 let averageScore = (introductionScore + gitScore + jsScore) / 3;
 
 // Student information
-let studentFullName = "Irina Lapina";
+let studentFullName = "I.Lapina";
 let studentFirstName = studentFullName.slice(0, 2);
 
 // Console output with template strings
